@@ -21,8 +21,8 @@ This project was taken as an assignment issued by Web3bridge.
 
 ### Links
 
-- Solution URL: [Click here for solution URL](https://github.com/Nonnyjoe/3-collumn-review-card)
-- Live Site URL: [click here for live site URL here](https://nonnyjoe.github.io/3-collumn-review-card/)
+- Solution URL: [Click here for solution URL](https://github.com/Nonnyjoe/Single-price-grid)
+- Live Site URL: [click here for live site URL here](https://nonnyjoe.github.io/Single-price-grid/)
 
 ### Built with
 
